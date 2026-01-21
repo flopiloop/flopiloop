@@ -4,6 +4,6 @@ I'm student in Data-Science Bachelor at @IUT2 @UGA.
 
 ### 🔗 Connect with me:
 - 🌍 **Portfolio:** [flopiloop.github.io/portfolio-website](https://flopiloop.github.io/portfolio-website/)
-- 💼 **LinkedIn:** [My Professional Profile](REPLACE_WITH_YOUR_LINKEDIN_URL)
+- 💼 **LinkedIn:** [My Professional Profile](https://www.linkedin.com/in/jonathan-wild-b7986434a/)
 
 ---
